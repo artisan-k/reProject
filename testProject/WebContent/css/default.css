@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#gnb {
+	overflow: hidden;
+	border-top: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	margin: 0px;
+	padding: 0px;
+}
+
+#gnb>li {
+	float: left;
+	list-style: none;
+	padding: 10px;
+}
+
+.title {
+	padding:10px;
+	
+}
+#contents{
+	padding:15px;
+}
+
+h2,td{
+	padding:10px;
+}
+
