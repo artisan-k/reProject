@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#gnb>li{
+	float: left;
+	list-style: none;
+	padding: 10px 20px;
+}
+
+#gnb {
+	overflow: hidden;
+	border-top: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+}
+
+.title {
+	padding:10px 20px;
+	
+}
+#memChangeForm{
+	display:none;
+}
+
